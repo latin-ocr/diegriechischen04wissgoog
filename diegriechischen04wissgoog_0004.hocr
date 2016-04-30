@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./diegriechischen04wissgoog_0004.png"; bbox 0 0 1040 1492; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 886 1362 936 1364">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 886 1362 936 1364">
+     <span class='ocr_line' id='line_1_1' title="bbox 886 1362 936 1364; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 886 1362 936 1364; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 49 1309 941 1427">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 49 1309 941 1427">
+     <span class='ocr_line' id='line_1_2' title="bbox 49 1309 941 1427; baseline -0.003 0"><span class='ocrx_word' id='word_1_2' title='bbox 49 1309 248 1427; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 804 1364 941 1424; x_wconf 95' lang='lat' dir='ltr'><strong>   </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 800 1362 961 1418">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 800 1362 961 1418">
+     <span class='ocr_line' id='line_1_3' title="bbox 800 1362 961 1412; baseline 0.012 -26"><span class='ocrx_word' id='word_1_4' title='bbox 800 1375 844 1391; x_wconf 62' lang='lat' dir='ltr'><strong>,Um</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 852 1376 920 1389; x_wconf 57' lang='lat' dir='ltr'><strong>mnaso*</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 928 1362 961 1412; x_wconf 44' lang='grc' dir='ltr'><strong>ἾἿ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 854 1383 951 1418; baseline 0.01 -15"><span class='ocrx_word' id='word_1_7' title='bbox 854 1393 933 1404; x_wconf 48' lang='grc' dir='ltr'><strong>ΠΡᾹΝαᾸ-ΑΕ</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 950 1383 951 1418; x_wconf 39' lang='grc'>1</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
